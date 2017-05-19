@@ -21,7 +21,7 @@ The goals / steps of this project are the following:
 
 [image1]: ./output_images/undistort_output.png "Undistorted"
 [image2]: ./output_images/test1.png "Road Transformed"
-[image3]: ./output_images/preprocessing.jpg "Binary Example"
+[image3]: ./output_images/preprocessing.png "Binary Example"
 [image4]: ./output_images/perspective_transform.png "Warp Example"
 [image5]: ./output_images/result_example.png "Fit Visual"
 [image6]: ./output_images/example_output.jpg "Output"
